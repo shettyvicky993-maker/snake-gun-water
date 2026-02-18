@@ -1,5 +1,5 @@
 # snake-gun-water
-code of snake gun water game using python
+#code of snake gun water game using python
 
 j=0;
 m=0;
